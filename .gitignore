@@ -1,0 +1,56 @@
+
+# FE
+
+# dependencies
+breeze-next/node_modules
+breeze-next/.pnp
+breeze-next/.pnp.js
+
+# testing
+breeze-next/coverage
+
+# next.js
+breeze-next/.next/
+breeze-next/out/
+
+# production
+breeze-next/build
+
+# misc
+breeze-next/.DS_Store
+breeze-next/*.pem
+
+# debug
+breeze-next/npm-debug.log*
+breeze-next/yarn-debug.log*
+breeze-next/yarn-error.log*
+
+# env files
+breeze-next/.env
+breeze-next/.env.local
+breeze-next/.env.development.local
+breeze-next/.env.test.local
+breeze-next/.env.production.local
+
+# vercel
+breeze-next/.vercel
+
+
+# BE
+/golden-mom/node_modules
+/golden-mom/public/build
+/golden-mom/public/hot
+/golden-mom/public/storage
+/golden-mom/storage/*.key
+/golden-mom/vendor
+/golden-mom/.env
+/golden-mom/.env.backup
+/golden-mom/.phpunit.result.cache
+/golden-mom/Homestead.json
+/golden-mom/Homestead.yaml
+/golden-mom/auth.json
+/golden-mom/npm-debug.log
+/golden-mom/yarn-error.log
+/golden-mom/.idea
+/golden-mom/.vscode
+
